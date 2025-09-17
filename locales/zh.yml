@@ -4,11 +4,11 @@ home:
     favoriteTools: '我的收藏'
     allTools: '全部工具'
     favoritesDndToolTip: '拖放重新排列收藏夹'
-  subtitle: '助力开发人员和IT工作者的在线工具'
+  subtitle: '助力IT爱好者的在线工具'
   toggleMenu: '切换菜单'
   home: '主页'
   uiLib: 'UI 库'
-  support: '支持 IT 工具开发'
+  support: '支持IT工具开发'
   buyMeACoffee: '赞助'
   follow:
     title: '关注我们'
