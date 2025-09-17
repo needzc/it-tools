@@ -10,7 +10,7 @@ import { config } from '@/config';
 
 const toolStore = useToolStore();
 
-useHead({ title: '智诚工具箱 - 方便开发人员使用的在线工具' });
+useHead({ title: '智诚工具箱 - 助力开发人员与IT工作者的在线工具' });
 const { t } = useI18n();
 
 const favoriteTools = computed(() => toolStore.favoriteTools);
